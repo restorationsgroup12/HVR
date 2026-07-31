@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 770" role="img" aria-labelledby="title desc">
+  <title id="title">Highview Restoration Ltd logo</title>
+  <desc id="desc">Gold high-rise building emblem with 10 years, Highview Restoration Ltd, construction and site staffing, and Design Build Restore tagline.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff6bf"/>
+      <stop offset="0.28" stop-color="#ffd86b"/>
+      <stop offset="0.55" stop-color="#d0a036"/>
+      <stop offset="0.78" stop-color="#8f610b"/>
+      <stop offset="1" stop-color="#fff0a6"/>
+    </linearGradient>
+    <linearGradient id="darkGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe37f"/>
+      <stop offset="1" stop-color="#a46e08"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect width="820" height="770" fill="transparent"/>
+  <g filter="url(#shadow)">
+    <path d="M112 568V432l63-46v182z" fill="url(#gold)"/>
+    <path d="M182 568V352l47-36 47 30v222z" fill="url(#darkGold)"/>
+    <path d="M229 316V206l72-68v430h-49V351z" fill="url(#gold)"/>
+    <path d="M301 568V68l74-58 75 63v495z" fill="url(#gold)"/>
+    <path d="M450 568V225l78-58 80 62v339h-54V255l-47-40-42 31v76l57 47v199z" fill="url(#gold)"/>
+    <path d="M623 568V363l64 41v164z" fill="url(#darkGold)"/>
+  </g>
+  <line x1="2" y1="592" x2="818" y2="592" stroke="url(#gold)" stroke-width="4"/>
+  <text x="28" y="548" font-family="Georgia, serif" font-size="58" font-weight="700" fill="url(#gold)">10</text>
+  <text x="604" y="548" font-family="Impact, Montserrat, sans-serif" font-size="56" letter-spacing="8" fill="url(#gold)">YEARS</text>
+  <text x="410" y="655" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="48" letter-spacing="6" fill="url(#gold)">HIGHVIEW RESTORATIONLTD</text>
+  <text x="410" y="704" text-anchor="middle" font-family="Brush Script MT, cursive" font-size="34" fill="url(#gold)">·construction &amp; site staffing·</text>
+  <line x1="2" y1="718" x2="818" y2="718" stroke="url(#gold)" stroke-width="4"/>
+  <text x="410" y="766" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="39" letter-spacing="18" fill="#ffffff">DESIGN • BUILD • RESTORE</text>
+</svg>
